@@ -7,3 +7,8 @@
 # Typical Responsibilities and Duties
 
 ### Application Software Developers are responsible for desnging applications to be run on computers and mobile devices. They will map the design of the software, create flowcharts for the code and will draft each step of the process. They create these ideas and directions so that they can instruct programmers in how to write the code for it. They are also in charge of monitoring the performance of the software, and determining how to modify it if needed.
+
+#
+# Required Education
+### - Bachelor's degree in Computer Science
+### - OR another degree with a significant programming component (Software Engineering etc.)
