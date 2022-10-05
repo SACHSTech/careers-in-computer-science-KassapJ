@@ -92,3 +92,16 @@
 ### - PHY 1010U - Physics I
 ### - PHY 1020U – Physics II
 
+## Other Necessary Requirements To Complete The Degree
+### 6 credit hours in general electives
+### - Business elective
+### - Communication elective
+
+## Length of The Course
+### Length of time of the course
+### - 4-5  Years
+### - 30 "Credit hours" every year
+### - 120 "Credit hours" in total
+
+#
+# Valuable Learning Opportunities
