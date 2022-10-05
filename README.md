@@ -12,3 +12,12 @@
 # Required Education
 ### - Bachelor's degree in Computer Science
 ### - OR another degree with a significant programming component (Software Engineering etc.)
+
+#
+# Required Technical and Non-Technical Skills
+### - Ability to outline, code and design a program
+### - A lot of collaboration between fellow programmers and stakeholders
+### - Ability to work with Java, SQL, JavaScript, Python, C#, Linux, Git, Oracle, DevOps.
+### - Problem Solving
+### - Teamwork
+### - Analysis and Strategy
