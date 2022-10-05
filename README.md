@@ -104,4 +104,9 @@
 ### - 120 "Credit hours" in total
 
 #
-# Valuable Learning Opportunities
+# Valuable Experiential Learning Opportunities
+### - My first option is easy. Computer science is such a versatile idea. Anyone can learn and create with the internet, and a computer. Keeping this in mind, all that is required to gain experience (albeit this is the lowest level of "professional" experience) is just creating code and software yourself.
+### - Any way you can enhance your coding skills is essential. Side projects is the best way in my opinion. 
+### - Learn the required languages through school or in your own time through online computer science courses
+### - Learn GitHub and other useful interfaces.
+### - As for other skills, learning to manage teams of ppeople and even just having good interpersonal skills is great. Learn to network and get good at talking and coordinating with others !
