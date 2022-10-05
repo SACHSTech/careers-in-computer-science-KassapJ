@@ -72,3 +72,23 @@
 ## Requirements
 ### - Completion of a 3 year university degree or college diploma in information management, information technology, or related field.
 ### - Minimum of 5 years of progressively more responsible experience in applications development and/or integration. Including experience writing and supporting applications with databases. Development experience with iOS and Android is an asset.
+
+<img src="https://www.universitystudy.ca/wp-content/uploads/2013/08/university-ontario-institute-of-technology-campus-image.jpg" alt="Picture of Ontario Tech University" width="960" height="300">
+
+# Ontario Tech University - Computer Science
+### One of the requirements of becoming an Application's Software Engineer is having a degree in a programming sector. This is where Ontario Tech University, a school I really want to go to, is able to provide me that next step.
+## Entrance Requirements
+### To enter the Computer Science Major, you must have
+### Six 4U/M credits, including ENG4U and MHF4U | One of ICS4U, MCV4U or SPH4U | Min 70%
+## First Year Courses I would Take
+### - BUSI 1600U - Management of the Enterprise (Business Elective)
+### - COMM 2620U - Interpersonal Communication (Communication Elective)
+### - CSCI 1030U – Introduction to Computer Science
+### - CSCI 1060U – Programming Workshop I
+### - CSCI 1061U – Programming Workshop II
+### - CSCI 2050U – Computer Architecture I
+### - MATH1010U - Calculus I
+### - MATH 1020U – Calculus II
+### - PHY 1010U - Physics I
+### - PHY 1020U – Physics II
+
