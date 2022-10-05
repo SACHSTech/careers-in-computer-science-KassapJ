@@ -110,3 +110,13 @@
 ### - Learn the required languages through school or in your own time through online computer science courses
 ### - Learn GitHub and other useful interfaces.
 ### - As for other skills, learning to manage teams of ppeople and even just having good interpersonal skills is great. Learn to network and get good at talking and coordinating with others !
+
+#
+# Works Cited
+### MyBlueprint’s Description of a Software Application Developer Occupation
+### https://www.rasmussen.edu/degrees/technology/blog/what-does-software-developer-do/
+### https://ontariotechu.ca/programs/undergraduate/computers-and-technology/computer-science/index.php
+### https://calendar.ontariotechu.ca/preview_program.php?catoid=67&poid=14553
+### https://jobs-emplois.ottawa.ca/city-jobs/job/Ottawa%2C-ON-Senior-Systems-DeveloperIntegrator%2C-Mobile-Applications-ON/726867347/
+### https://ca.indeed.com/viewjob?jk=ba2b66a77191ad33&qd=LqeLp7-k6d_XgByv0jRAsfRA-1BAVzm-7hE7PV3SBGUBv7O2aeGjStAdreB6WxVcmHcKyNCHUSdNbUq_kDoaeXLl-Lsz3nV9BAd2Ujz6E9I-eSODHu9d7DuCWDMsyJQH8PtIC6RfHakxfJgzXxRprQ&atk=1geks3vf228ul001&jsa=6495&inchal=apiresults
+### https://ca.indeed.com/viewjob?jk=27bd62d559593b45&qd=LqeLp7-k6d_XgByv0jRAscnbzE9agDraeUJFQE519qoj49khldW4o8B80mZmYnKEy3Gow5BpyWucjuwd8ImwdNraG7rZZWC8I_WZuHJOj4eQdp87lgOnTg6CkCuN8yWZ6gIUsyJs4IRptRqGe57AKQ&atk=1geks684r2eoi001&jsa=921&inchal=apiresults
