@@ -73,9 +73,9 @@
 ### - Completion of a 3 year university degree or college diploma in information management, information technology, or related field.
 ### - Minimum of 5 years of progressively more responsible experience in applications development and/or integration. Including experience writing and supporting applications with databases. Development experience with iOS and Android is an asset.
 
-<img src="https://www.universitystudy.ca/wp-content/uploads/2013/08/university-ontario-institute-of-technology-campus-image.jpg" alt="Picture of Ontario Tech University" width="960" height="300">
+<a href="https://ontariotechu.ca/programs/undergraduate/computers-and-technology/computer-science/index.php"><img src="https://www.universitystudy.ca/wp-content/uploads/2013/08/university-ontario-institute-of-technology-campus-image.jpg" alt="Picture of Ontario Tech University" width="960" height="300"></a>
 
-# Ontario Tech University - Computer Science
+# Ontario Tech University - Computer Science (Click on Image for Course Link)
 ### One of the requirements of becoming an Application's Software Engineer is having a degree in a programming sector. This is where Ontario Tech University, a school I really want to go to, is able to provide me that next step.
 ## Entrance Requirements
 ### To enter the Computer Science Major, you must have
@@ -105,11 +105,18 @@
 
 #
 # Valuable Experiential Learning Opportunities
+| Low-Level                             | Mid-Level                       | Professional     |
+| :-----------------------------------: |:-------------------------------:| ----------------:|
+| Side-Projects                         | Managing Teams of People        | Internship       |
+| Learning Useful Languages             |  Improving Interpersonal Skills |                  |
+| Learning GitHub and other interfaces  |  Netwroking                     |                  |
+## Reasons
 ### - My first option is easy. Computer science is such a versatile idea. Anyone can learn and create with the internet, and a computer. Keeping this in mind, all that is required to gain experience (albeit this is the lowest level of "professional" experience) is just creating code and software yourself.
 ### - Any way you can enhance your coding skills is essential. Side projects is the best way in my opinion. 
 ### - Learn the required languages through school or in your own time through online computer science courses
 ### - Learn GitHub and other useful interfaces.
-### - As for other skills, learning to manage teams of ppeople and even just having good interpersonal skills is great. Learn to network and get good at talking and coordinating with others !
+### - As for other skills, learning to manage teams of ppeople and even just having good interpersonal skills is great. Learn to network and get good at talking and coordinating with others!
+### - An internship is probably the closest you can get to working as an Applications Software Developer without getting an actual job, and can be a great way to learn!
 
 #
 # Works Cited
@@ -120,3 +127,4 @@
 ### https://jobs-emplois.ottawa.ca/city-jobs/job/Ottawa%2C-ON-Senior-Systems-DeveloperIntegrator%2C-Mobile-Applications-ON/726867347/
 ### https://ca.indeed.com/viewjob?jk=ba2b66a77191ad33&qd=LqeLp7-k6d_XgByv0jRAsfRA-1BAVzm-7hE7PV3SBGUBv7O2aeGjStAdreB6WxVcmHcKyNCHUSdNbUq_kDoaeXLl-Lsz3nV9BAd2Ujz6E9I-eSODHu9d7DuCWDMsyJQH8PtIC6RfHakxfJgzXxRprQ&atk=1geks3vf228ul001&jsa=6495&inchal=apiresults
 ### https://ca.indeed.com/viewjob?jk=27bd62d559593b45&qd=LqeLp7-k6d_XgByv0jRAscnbzE9agDraeUJFQE519qoj49khldW4o8B80mZmYnKEy3Gow5BpyWucjuwd8ImwdNraG7rZZWC8I_WZuHJOj4eQdp87lgOnTg6CkCuN8yWZ6gIUsyJs4IRptRqGe57AKQ&atk=1geks684r2eoi001&jsa=921&inchal=apiresults
+
