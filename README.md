@@ -127,4 +127,6 @@
 ### https://jobs-emplois.ottawa.ca/city-jobs/job/Ottawa%2C-ON-Senior-Systems-DeveloperIntegrator%2C-Mobile-Applications-ON/726867347/
 ### https://ca.indeed.com/viewjob?jk=ba2b66a77191ad33&qd=LqeLp7-k6d_XgByv0jRAsfRA-1BAVzm-7hE7PV3SBGUBv7O2aeGjStAdreB6WxVcmHcKyNCHUSdNbUq_kDoaeXLl-Lsz3nV9BAd2Ujz6E9I-eSODHu9d7DuCWDMsyJQH8PtIC6RfHakxfJgzXxRprQ&atk=1geks3vf228ul001&jsa=6495&inchal=apiresults
 ### https://ca.indeed.com/viewjob?jk=27bd62d559593b45&qd=LqeLp7-k6d_XgByv0jRAscnbzE9agDraeUJFQE519qoj49khldW4o8B80mZmYnKEy3Gow5BpyWucjuwd8ImwdNraG7rZZWC8I_WZuHJOj4eQdp87lgOnTg6CkCuN8yWZ6gIUsyJs4IRptRqGe57AKQ&atk=1geks684r2eoi001&jsa=921&inchal=apiresults
-
+### https://www.universitystudy.ca/wp-content/uploads/2013/08/university-ontario-institute-of-technology-campus-image.jpg
+### https://www.springboard.com/blog/wp-content/uploads/2021/11/How-To-Become-a-Software-Engineer-Without-a-Degree-1-scaled.jpg
+### https://d3kqdc25i4tl0t.cloudfront.net/articles/content/543_378726_tech.hero.jpg
